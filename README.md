@@ -2,8 +2,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sewens&count_private=true&show_icons=true" alt="github stats" />
 </p>
 
-Familiar with Windows, Linux (in descending order).
+Working along with Windows and Linux, basiclly full stack from backend to frontend, from machine learning model to application.
 
-Using mostly C/C++. Work in Progress:
+Major in Natural Language Processing, Infomation Retrieval and Software Engineering.
 
-[![Twitter](https://img.shields.io/badge/@LaWbda-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/LaWbda)
+Keep learning and keeping learn to be a programmer forever~
+
+Fo me via:[![Twitter](https://img.shields.io/badge/@LaWbda-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/LaWbda)
